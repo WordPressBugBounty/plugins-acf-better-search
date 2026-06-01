@@ -1,5 +1,17 @@
 == Changelog ==
 
+= 4.5.0 (2026-06-01) =
+* `[Fixed]` Compatibility with PHP 8.4
+* `[Changed]` Minimum required PHP version from 7.1 to 7.4
+* `[Added]` Compatibility with PHP 8.5
+* `[Added]` Support for WordPress 7.0
+
+= 4.4.1 (2025-12-08) =
+* `[Added]` The home page of the plugin
+
+= 4.4.0 (2025-10-28) =
+* `[Added]` Support for WordPress 6.9
+
 = 4.3.1 (2025-05-29) =
 * `[Removed]` Filter `acfbs_search_post_object_fields` to select post fields using to search
 * `[Added]` Filter `post_search_columns` to change the columns to search in a WP_Query search
